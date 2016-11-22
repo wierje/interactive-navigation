@@ -1,0 +1,19 @@
+body {
+  font-family: Roboto, "Century Gothic", sans-serif;
+}
+
+#nav li {
+  margin: .75em;
+  list-style-type: none;
+}
+
+#nav li > a:hover {
+ color: red;
+ background-color: #ddffdd;
+}
+
+#nav a:visited {
+ color: purple;
+ width-left:
+}
+
