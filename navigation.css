@@ -1,4 +1,5 @@
 body {
+  width: 90%;
   font-family: Roboto, "Century Gothic", sans-serif;
 }
 
@@ -7,13 +8,21 @@ body {
   list-style-type: none;
 }
 
-#nav li > a:hover {
- color: red;
- background-color: #ddffdd;
+#nav a:link {
+ padding: 0 5px 0 5px;
 }
 
 #nav a:visited {
  color: purple;
- width-left:
 }
 
+#nav a:hover {
+ color: red;
+ background-color: #ddffdd;
+}
+
+#nav a:active {
+  padding: none;
+}
+
+/* li > */
